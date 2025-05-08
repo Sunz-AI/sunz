@@ -71,7 +71,7 @@ export default function HeroHome() {
               data-aos-delay={150}
             >
               Get things done across your apps <br className="max-lg:hidden" />
-              with your personal AI agent, Sunz.
+              with one smart AI agent.
             </h1>
             <div className="mx-auto max-w-3xl">
               <p
