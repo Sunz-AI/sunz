@@ -13,20 +13,20 @@ export default function Banner() {
             <div className="inline-flex text-slate-500">
               <a
                 className="font-medium text-slate-50 hover:underline"
-                href="https://github.com/cruip/tailwind-landing-page-template"
+                href="https://sunz.ai"
                 target="_blank"
                 rel="noreferrer"
               >
-                Download<span className="hidden sm:inline"> on GitHub</span>
+                Learn<span className="hidden sm:inline"> More</span>
               </a>{" "}
               <span className="px-1.5 italic">or</span>{" "}
               <a
                 className="font-medium text-emerald-400 hover:underline"
-                href="https://cruip.com/simple/"
+                href="https://sunz.ai"
                 target="_blank"
                 rel="noreferrer"
               >
-                Check Premium Version
+                Talk To Sunz
               </a>
             </div>
             <button
