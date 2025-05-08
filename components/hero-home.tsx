@@ -70,8 +70,8 @@ export default function HeroHome() {
               data-aos="zoom-y-out"
               data-aos-delay={150}
             >
-              Get things done across your apps <br className="max-lg:hidden" />
-              with one smart AI agent.
+              Get things done across all <br className="max-lg:hidden" />
+              apps with the Sunz.
             </h1>
             <div className="mx-auto max-w-3xl">
               <p
