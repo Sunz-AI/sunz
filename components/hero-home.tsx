@@ -70,8 +70,8 @@ export default function HeroHome() {
               data-aos="zoom-y-out"
               data-aos-delay={150}
             >
-              Sunz lets you get things done across all your apps <br className="max-lg:hidden" />
-              with one smart personal AI agent.
+              Get things done across your apps <br className="max-lg:hidden" />
+              with your personal AI agent, Sunz.
             </h1>
             <div className="mx-auto max-w-3xl">
               <p
@@ -80,7 +80,7 @@ export default function HeroHome() {
                 data-aos-delay={300}
               >
                 Sunz is a personal AI agent that redefines how people interact with their digital tools
-                across chat, voice, and automation.
+                across chat, voice, and automation. Imagine your Jarvis, in real life.
               </p>
               <div className="relative before:absolute before:inset-0 before:border-y before:[border-image:linear-gradient(to_right,transparent,--theme(--color-slate-300/.8),transparent)1]">
                 <div
