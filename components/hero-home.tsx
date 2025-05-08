@@ -122,29 +122,32 @@ export default function HeroHome() {
                 </span>
               </div>
               <div className="font-mono text-gray-500 [&_span]:opacity-0">
-                <span className="animate-[code-1_10s_infinite] text-gray-200">
+                <span className="animate-[code-1_20s_infinite] text-gray-200">
                   Me:
                 </span>{" "}
-                <span className="animate-[code-2_10s_infinite]">
+                <span className="animate-[code-2_20s_infinite]">
                   Add a task to my Google Tasks: "Buy groceries tonight".
                 </span>
                 <br />
-                <span className="animate-[code-3_10s_infinite]">
+                <span className="animate-[code-3_20s_infinite]">
                   Also remind me at 7 PM.
                 </span>{" "}
-                <span className="animate-[code-4_10s_infinite]">
+                <span className="animate-[code-4_20s_infinite]">
                   Send it to LINE too.
                 </span>
                 <br />
                 <br />
-                <span className="animate-[code-5_10s_infinite] text-gray-200">
+                <span className="animate-[code-5_20s_infinite] text-gray-200">
                   Sunz:
                 </span>
                 <br />
-                <span className="animate-[code-6_10s_infinite]">
-                Got it. Task "Buy groceries tonight" added to your Google Tasks.  
-                Reminder set for 7 PM. You’ll get a notification.  
-                Also sent to LINE. Check your chat.
+                <span className="animate-[code-6_20s_infinite]">
+                  Got it. Task "Buy groceries tonight" added to your Google Tasks.<br />
+                  Reminder set for 7 PM. You’ll get a notification.
+                </span>
+                <br />
+                <span className="animate-[code-7_20s_infinite]">
+                  Also sent to LINE. Check your chat.
                 </span>
               </div>
             </div>
