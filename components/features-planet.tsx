@@ -133,3 +133,16 @@ export default function FeaturesPlanet() {
                   height={16}
                 >
                   <path d="M8 0a1 1 0 0 1 1 1v14a1 1 0 1 1-2 0V1a1 1 0 0 1 1-1Zm6 3a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h1a1 1 0 1 1 0 2h-1a3 3 0 0 1-3-3V4a3 3 0 0 1 3-3h1a1 1 0 1 1 0 2h-1ZM1 1a1 1
+                </svg>
+                <span>การเชื่อมต่อ</span>
+              </h3>
+              <p className="text-[15px] text-gray-400">
+                ใช้ Sunz เชื่อมต่อกับแอปต่างๆ เพื่อช่วยให้การทำงานของคุณเป็นระบบมากขึ้น
+              </p>
+            </article>
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+}
