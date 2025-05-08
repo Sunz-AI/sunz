@@ -118,31 +118,39 @@ export default function HeroHome() {
             <div className="relative aspect-video rounded-2xl bg-gray-900 px-5 py-3 shadow-xl before:pointer-events-none before:absolute before:-inset-5 before:border-y before:[border-image:linear-gradient(to_right,transparent,--theme(--color-slate-300/.8),transparent)1] after:absolute after:-inset-5 after:-z-10 after:border-x after:[border-image:linear-gradient(to_bottom,transparent,--theme(--color-slate-300/.8),transparent)1]">
               <div className="relative mb-8 flex items-center justify-between before:block before:h-[9px] before:w-[41px] before:bg-[length:16px_9px] before:[background-image:radial-gradient(circle_at_4.5px_4.5px,var(--color-gray-600)_4.5px,transparent_0)] after:w-[41px]">
                 <span className="text-[13px] font-medium text-white">
-                  cruip.com
+                  sunz ai
                 </span>
               </div>
               <div className="font-mono text-gray-500 [&_span]:opacity-0">
-                <span className="animate-[code-1_10s_infinite] text-gray-200">
-                  npm login
+                <span className="animate-[code-1_11s_infinite] text-gray-200">
+                  Me:
                 </span>{" "}
-                <span className="animate-[code-2_10s_infinite]">
-                  --registry=https://npm.pkg.github.com
+                <span className="animate-[code-2_11s_infinite]">
+                  Add a task to my Google Tasks: "Buy groceries tonight".
                 </span>
                 <br />
-                <span className="animate-[code-3_10s_infinite]">
-                  --scope=@phanatic
+                <span className="animate-[code-3_11s_infinite]">
+                  Also remind me at 7 PM.
                 </span>{" "}
-                <span className="animate-[code-4_10s_infinite]">
-                  Successfully logged-in.
+                <span className="animate-[code-4_11s_infinite]">
+                  Send it to LINE too.
                 </span>
                 <br />
                 <br />
-                <span className="animate-[code-5_10s_infinite] text-gray-200">
-                  npm publish
+                <span className="animate-[code-5_11s_infinite] text-gray-200">
+                  Sunz:
                 </span>
                 <br />
-                <span className="animate-[code-6_10s_infinite]">
-                  Package published.
+                <span className="animate-[code-6_11s_infinite]">
+                  Got it. Task "Buy groceries tonight" added to your Google Tasks.
+                </span>
+                <br />
+                <span className="animate-[code-7_11s_infinite]">
+                  Reminder set for 7 PM. You’ll get a notification.
+                </span>
+                <br />
+                <span className="animate-[code-8_11s_infinite]">
+                  I sent it to LINE. Check your chat.
                 </span>
               </div>
             </div>
