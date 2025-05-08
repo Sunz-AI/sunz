@@ -13,7 +13,7 @@ export default function Accordion({
   children,
   title,
   id,
-  active = false,
+  active = true,
 }: AccordionpProps) {
   const [accordionOpen, setAccordionOpen] = useState<boolean>(active);
 
