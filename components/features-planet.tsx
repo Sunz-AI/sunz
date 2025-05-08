@@ -14,7 +14,7 @@ export default function FeaturesPlanet() {
           {/* Section header */}
           <div className="mx-auto max-w-3xl pb-16 text-center md:pb-20">
             <h2 className="text-3xl font-bold text-gray-200 md:text-4xl">
-              Sunz AI powers your team with intelligent automation
+              Sunz helps your AI workflows orbit in perfect harmony
             </h2>
           </div>
           {/* Planet */}
@@ -75,67 +75,68 @@ export default function FeaturesPlanet() {
             <article>
               <h3 className="mb-2 flex items-center space-x-2 font-medium text-gray-200">
                 <svg className="fill-blue-500" xmlns="http://www.w3.org/2000/svg" width={16} height={16}>
-                  <path d="M2 4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V4Z" />
+                  <path d="M2 4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V4Zm2-4a4 4 0 0 0-4 4v8a4 4 0 0 0 4 4h8a4 4 0 0 0 4-4V4a4 4 0 0 0-4-4H4Zm1 10a1 1 0 1 0 0 2h6a1 1 0 1 0 0-2H5Z" />
                 </svg>
-                <span>Realtime Insights</span>
+                <span>Real-time AI Metrics</span>
               </h3>
               <p className="text-[15px] text-gray-400">
-                Understand what’s happening across tasks, messages, and files — updated in real-time.
+                Instantly monitor your agents' behavior, task success, and execution time across your Sunz-powered workflows.
               </p>
             </article>
             <article>
               <h3 className="mb-2 flex items-center space-x-2 font-medium text-gray-200">
                 <svg className="fill-blue-500" xmlns="http://www.w3.org/2000/svg" width={16} height={16}>
-                  <path d="M14.29 2.614a1 1 0 0 0-1.58-1.228L6.407 9.492l-3.199-3.2a1 1 0 1 0-1.414 1.415l4 4a1 1 0 0 0 1.496-.093l7-9Z" />
+                  <path d="M14.29 2.614a1 1 0 0 0-1.58-1.228L6.407 9.492l-3.199-3.2a1 1 0 1 0-1.414 1.415l4 4a1 1 0 0 0 1.496-.093l7-9ZM1 14a1 1 0 1 0 0 2h14a1 1 0 1 0 0-2H1Z" />
                 </svg>
-                <span>Smart Tasks</span>
+                <span>Context-Aware Metadata</span>
               </h3>
               <p className="text-[15px] text-gray-400">
-                Sunz creates, updates, and reminds you about tasks — without needing to ask twice.
+                Sunz automatically attaches context and history to every workflow, giving your agents memory without code.
               </p>
             </article>
             <article>
               <h3 className="mb-2 flex items-center space-x-2 font-medium text-gray-200">
                 <svg className="fill-blue-500" xmlns="http://www.w3.org/2000/svg" width={16} height={16}>
-                  <path d="M8 11a3 3 0 1 1 0-6 3 3 0 0 1 0 6Z" />
+                  <path d="..." opacity=".3" />
+                  <path d="..." />
                 </svg>
-                <span>AI Context Memory</span>
+                <span>AI Optimization Tools</span>
               </h3>
               <p className="text-[15px] text-gray-400">
-                Sunz remembers previous commands, links, and files — giving smarter replies every time.
+                Tune latency, cost, and performance of every LLM interaction with built-in observability and controls.
               </p>
             </article>
             <article>
               <h3 className="mb-2 flex items-center space-x-2 font-medium text-gray-200">
                 <svg className="fill-blue-500" xmlns="http://www.w3.org/2000/svg" width={16} height={16}>
-                  <path d="M8 0a1 1 0 0 1 1 1v14a1 1 0 1 1-2 0V1a1 1 0 0 1 1-1Z" />
+                  <path d="..." />
                 </svg>
-                <span>Custom Commands</span>
+                <span>Custom Logic Nodes</span>
               </h3>
               <p className="text-[15px] text-gray-400">
-                You define the rules. Sunz executes workflows, automations, and scripts on your terms.
+                Build and reuse your own logic blocks, and plug them directly into Sunz's visual workflow system.
               </p>
             </article>
             <article>
               <h3 className="mb-2 flex items-center space-x-2 font-medium text-gray-200">
                 <svg className="fill-blue-500" xmlns="http://www.w3.org/2000/svg" width={16} height={16}>
-                  <path d="M10.284.33a1 1 0 1 0-.574 1.917" />
+                  <path d="..." />
                 </svg>
-                <span>Multilingual Ready</span>
+                <span>Multilingual Support</span>
               </h3>
               <p className="text-[15px] text-gray-400">
-                Sunz speaks your language. Switch seamlessly across English, Thai, and more.
+                Launch AI agents in any language using Sunz’s auto-translation and localization layer.
               </p>
             </article>
             <article>
               <h3 className="mb-2 flex items-center space-x-2 font-medium text-gray-200">
                 <svg className="fill-blue-500" xmlns="http://www.w3.org/2000/svg" width={16} height={16}>
-                  <path d="M9 1a1 1 0 1 0-2 0v6a1 1 0 0 0 2 0V1Z" />
+                  <path d="..." />
                 </svg>
-                <span>Always Listening</span>
+                <span>Canonical Routing</span>
               </h3>
               <p className="text-[15px] text-gray-400">
-                Wake Sunz with your voice anytime. No clicks needed. Just say the word and go.
+                Keep your AI agents aligned with a unified source of truth using Sunz’s canonical URL system.
               </p>
             </article>
           </div>
