@@ -142,11 +142,10 @@ export default function HeroHome() {
                 </span>
                 <br />
                 <span className="animate-[code-6_20s_infinite]">
-                  Got it. Task "Buy groceries tonight" added to your Google Tasks.<br />
+                  Got it. Task "Buy groceries tonight" added to your Google Tasks.
+                  <br />
                   Reminder set for 7 PM. You’ll get a notification.
-                </span>
-                <br />
-                <span className="animate-[code-7_20s_infinite]">
+                  <br />
                   Also sent to LINE. Check your chat.
                 </span>
               </div>
