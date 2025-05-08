@@ -14,7 +14,7 @@ export default function FeaturesPlanet() {
           {/* Section header */}
           <div className="mx-auto max-w-3xl pb-16 text-center md:pb-20">
             <h2 className="text-3xl font-bold text-gray-200 md:text-4xl">
-              Sunz AI ช่วยให้ทีมทำงานร่วมกันได้อย่างมีประสิทธิภาพ
+              Sunz AI powers your team with intelligent automation
             </h2>
           </div>
           {/* Planet */}
@@ -74,70 +74,68 @@ export default function FeaturesPlanet() {
           <div className="grid overflow-hidden sm:grid-cols-2 lg:grid-cols-3 *:relative *:p-6 *:before:absolute *:before:bg-gray-800 *:before:[block-size:100vh] *:before:[inline-size:1px] *:before:[inset-block-start:0] *:before:[inset-inline-start:-1px] *:after:absolute *:after:bg-gray-800 *:after:[block-size:1px] *:after:[inline-size:100vw] *:after:[inset-block-start:-1px] *:after:[inset-inline-start:0] md:*:p-10">
             <article>
               <h3 className="mb-2 flex items-center space-x-2 font-medium text-gray-200">
-                <svg
-                  className="fill-blue-500"
-                  xmlns="http://www.w3.org/2000/svg"
-                  width={16}
-                  height={16}
-                >
-                  <path d="M2 4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V4Zm2-4a4 4 0 0 0-4 4v8a4 4 0 0 0 4 4h8a4 4 0 0 0 4-4V4a4 4 0 0 0-4-4H4Zm1 10a1 1 0 1 0 0 2h6a1 1 0 1 0 0-2H5Z" />
+                <svg className="fill-blue-500" xmlns="http://www.w3.org/2000/svg" width={16} height={16}>
+                  <path d="M2 4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V4Z" />
                 </svg>
-                <span>การจัดการงาน</span>
+                <span>Realtime Insights</span>
               </h3>
               <p className="text-[15px] text-gray-400">
-                Sunz ช่วยจัดการงานรายวัน เพิ่ม เตือน แชร์ ข้ามแอปได้ในคลิกเดียว
+                Understand what’s happening across tasks, messages, and files — updated in real-time.
               </p>
             </article>
             <article>
               <h3 className="mb-2 flex items-center space-x-2 font-medium text-gray-200">
-                <svg
-                  className="fill-blue-500"
-                  xmlns="http://www.w3.org/2000/svg"
-                  width={16}
-                  height={16}
-                >
-                  <path d="M14.29 2.614a1 1 0 0 0-1.58-1.228L6.407 9.492l-3.199-3.2a1 1 0 1 0-1.414 1.415l4 4a1 1 0 0 0 1.496-.093l7-9ZM1 14a1 1 0 1 0 0 2h14a1 1 0 1 0 0-2H1Z" />
+                <svg className="fill-blue-500" xmlns="http://www.w3.org/2000/svg" width={16} height={16}>
+                  <path d="M14.29 2.614a1 1 0 0 0-1.58-1.228L6.407 9.492l-3.199-3.2a1 1 0 1 0-1.414 1.415l4 4a1 1 0 0 0 1.496-.093l7-9Z" />
                 </svg>
-                <span>ข้อมูลเมตา</span>
+                <span>Smart Tasks</span>
               </h3>
               <p className="text-[15px] text-gray-400">
-                วิเคราะห์ข้อมูลการใช้งานเบื้องต้น เช่น หน้าเว็บที่ผู้ใช้เข้าชมและแหล่งที่มาของการเข้าชม
+                Sunz creates, updates, and reminds you about tasks — without needing to ask twice.
               </p>
             </article>
             <article>
               <h3 className="mb-2 flex items-center space-x-2 font-medium text-gray-200">
-                <svg
-                  className="fill-blue-500"
-                  xmlns="http://www.w3.org/2000/svg"
-                  width={16}
-                  height={16}
-                >
-                  <path
-                    d="M2.248 6.285a1 1 0 0 1-1.916-.57A8.014 8.014 0 0 1 5.715.332a1 1 0 0 1 .57 1.916 6.014 6.014 0 0 0-4.037 4.037Z"
-                    opacity=".3"
-                  />
-                  <path d="M8 11a3 3 0 1 1 0-6 3 3 0 0 1 0 6Zm0-2a1 1 0 1 0 0-2 1 1 0 0 0 0 2Zm1.715-6.752a1 1 0 0 1 .57-1.916 8.014 8.014 0 0 1 5.383 5.383 1 1 0 1 1-1.916.57 6.014 6.014 0 0 0-4.037-4.037Zm4.037 7.467a1 1 0 1 1 1.916.57 8.014 8.014 0 0 1-5.383 5.383 1 1 0 1 1-.57-1.916 6.014 6.014 0 0 0 4.037-4.037Zm-7.467 4.037a1 1 0 1 1-.57 1.916 8.014 8.014 0 0 1-5.383-5.383 1 1 0 1 1 1.916-.57 6.014 6.014 0 0 0 4.037 4.037Z" />
+                <svg className="fill-blue-500" xmlns="http://www.w3.org/2000/svg" width={16} height={16}>
+                  <path d="M8 11a3 3 0 1 1 0-6 3 3 0 0 1 0 6Z" />
                 </svg>
-                <span>SEO &amp; ประสิทธิภาพ</span>
+                <span>AI Context Memory</span>
               </h3>
               <p className="text-[15px] text-gray-400">
-                ปรับแต่ง SEO ของเว็บไซต์เพื่อเพิ่มประสิทธิภาพการค้นหาและการเข้าถึง
+                Sunz remembers previous commands, links, and files — giving smarter replies every time.
               </p>
             </article>
             <article>
               <h3 className="mb-2 flex items-center space-x-2 font-medium text-gray-200">
-                <svg
-                  className="fill-blue-500"
-                  xmlns="http://www.w3.org/2000/svg"
-                  width={16}
-                  height={16}
-                >
-                  <path d="M8 0a1 1 0 0 1 1 1v14a1 1 0 1 1-2 0V1a1 1 0 0 1 1-1Zm6 3a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h1a1 1 0 1 1 0 2h-1a3 3 0 0 1-3-3V4a3 3 0 0 1 3-3h1a1 1 0 1 1 0 2h-1ZM1 1a1 1
+                <svg className="fill-blue-500" xmlns="http://www.w3.org/2000/svg" width={16} height={16}>
+                  <path d="M8 0a1 1 0 0 1 1 1v14a1 1 0 1 1-2 0V1a1 1 0 0 1 1-1Z" />
                 </svg>
-                <span>การเชื่อมต่อ</span>
+                <span>Custom Commands</span>
               </h3>
               <p className="text-[15px] text-gray-400">
-                ใช้ Sunz เชื่อมต่อกับแอปต่างๆ เพื่อช่วยให้การทำงานของคุณเป็นระบบมากขึ้น
+                You define the rules. Sunz executes workflows, automations, and scripts on your terms.
+              </p>
+            </article>
+            <article>
+              <h3 className="mb-2 flex items-center space-x-2 font-medium text-gray-200">
+                <svg className="fill-blue-500" xmlns="http://www.w3.org/2000/svg" width={16} height={16}>
+                  <path d="M10.284.33a1 1 0 1 0-.574 1.917" />
+                </svg>
+                <span>Multilingual Ready</span>
+              </h3>
+              <p className="text-[15px] text-gray-400">
+                Sunz speaks your language. Switch seamlessly across English, Thai, and more.
+              </p>
+            </article>
+            <article>
+              <h3 className="mb-2 flex items-center space-x-2 font-medium text-gray-200">
+                <svg className="fill-blue-500" xmlns="http://www.w3.org/2000/svg" width={16} height={16}>
+                  <path d="M9 1a1 1 0 1 0-2 0v6a1 1 0 0 0 2 0V1Z" />
+                </svg>
+                <span>Always Listening</span>
+              </h3>
+              <p className="text-[15px] text-gray-400">
+                Wake Sunz with your voice anytime. No clicks needed. Just say the word and go.
               </p>
             </article>
           </div>
